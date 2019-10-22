@@ -11,4 +11,5 @@ MacOS running in dell 7591
 
 # Not working
 -> Microphone and Line In
+
 thanks @tctien342
